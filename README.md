@@ -12,7 +12,7 @@
  <img align='right' src="https://media.giphy.com/media/YJlyuBEWVte2PSdSra/giphy.gif" width="280">
 
 <br><br><br>
-I'm a passionate dev, about Machine Learning, IA and NLP.
+I'm a passionate dev, about Machine Learning, AI and NLP.
 <br><br>
 
 
